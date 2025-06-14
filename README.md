@@ -59,7 +59,8 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to 1v1chicken-m1m's Official YouTube Channel</h1>
+        <img src="https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube_image1600w.jpg" alt="YouTube | Nintendo Switch Download-Software | Spiele | Nintendo DE"/>
+        ![image](https://github.com/user-attachments/assets/d1c18756-2912-4ee8-8d79-3cc25af6294a)
     </header>
 
    
