@@ -8,7 +8,7 @@
   <center>
     <h1>Welcome to 1v1Chicken-m1m</h1>
     <p><strong>Your favorite 1v1 content, gaming moments, and more!</strong></p>
-  Jujutsu Kaisen Wiki | Fandom"/>![image](https://github.com/user-attachments/assets/eb056c96-9755-469c-a7cf-35d6995681e2)
+ 
 <a href="https://www.youtube.com/@1v1Chicken-m1m" target="_blank">
   Visit my YouTube Channel
   
