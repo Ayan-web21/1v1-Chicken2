@@ -9,14 +9,4 @@
     <h1>Welcome to 1v1Chicken-m1m</h1>
     <p><strong>Your favorite 1v1 content, gaming moments, and more!</strong></p>
     
-    <hr>
-
-    <hr>
-
-    <p>&copy; 2025 1v1Chicken-m1m. All rights reserved.</p>
-  </center>
-</body>
-</html><a href="https://www.youtube.com/@1v1Chicken-m1m" target="_blank">
-  Visit @1v1Chicken-m1m on YouTube
-</a>
-
+ 
