@@ -37,4 +37,7 @@
     <p>&copy; 2025 1v1Chicken-m1m. All rights reserved.</p>
   </center>
 </body>
-</html>
+</html><a href="https://www.youtube.com/@1v1Chicken-m1m" target="_blank">
+  Visit @1v1Chicken-m1m on YouTube
+</a>
+
