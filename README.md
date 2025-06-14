@@ -10,3 +10,6 @@
     <p><strong>Your favorite 1v1 content, gaming moments, and more!</strong></p>
     
  
+<a href="https://www.youtube.com/@1v1Chicken-m1m" target="_blank">
+  Visit my YouTube Channel
+</a>
