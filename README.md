@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1v1chicken-m1m - Official Channel</title>
-    <style>
-        body {
+    
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
             color: #333;
