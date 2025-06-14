@@ -62,8 +62,7 @@
         <h1>Welcome to 1v1chicken-m1m's Official YouTube Channel</h1>
     </header>
 
-    <div class="content">
-        <h2>About My Channel</h2>
+   
         <p>Welcome to the 1v1chicken-m1m channel! Here, you'll find gaming content, tips, and fun challenges. Subscribe and join the 1v1chicken community for epic videos and streams!</p>
 
        
