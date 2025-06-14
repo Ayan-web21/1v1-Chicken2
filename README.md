@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>1v1Chicken-m1m | YouTube Channel</title>
+  1v1Chicken-m1m | YouTube Channel
 </head>
 <body>
   <center>
